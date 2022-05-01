@@ -1,0 +1,16 @@
+
+                         A compact batteryless low-startup boost converter
+
+
+In this work, we aim to minimize the startup voltage of a batteryless single inductor boost converter that is targeted for thermal energy harvesting. Based on the technology scaling, the design reported in [2] is expected to result in a small startup voltage in a 130 nm technology. The targeted specifications for our design are given below:
+Parameter and Value 
+Startup voltage: 95mV
+No. of off-chip inductor:   1
+Minimum input voltage:  50mV
+Output voltage: <1
+Output power: <400 µW
+Peak efficiency : 60%
+Temperature Range : -30°C to 80°C
+MPPT: 1
+Dia Area:<0.17 mm2
+Processor: 130nm
